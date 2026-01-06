@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|c:\\users\\amenallah\\desktop\\amenproject\\gestionrendezvous\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|c:\\users\\amenallah\\desktop\\amenproject\\gestionrendezvous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|c:\\users\\amenallah\\desktop\\amenproject\\gestionrendezvous\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|c:\\users\\amenallah\\desktop\\amenproject\\gestionrendezvous\\connexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:connexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|c:\\users\\amenallah\\desktop\\amenproject\\gestionrendezvous\\formlisterendezvous.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:formlisterendezvous.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|c:\\users\\amenallah\\desktop\\amenproject\\gestionrendezvous\\formlisterendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:formlisterendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|c:\\users\\amenallah\\desktop\\amenproject\\gestionrendezvous\\formlisterendezvous.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:formlisterendezvous.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|c:\\users\\amenallah\\desktop\\amenproject\\gestionrendezvous\\gestionrendezvous.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:gestionrendezvous.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|c:\\users\\amenallah\\desktop\\amenproject\\gestionrendezvous\\formdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:formdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|c:\\users\\amenallah\\desktop\\amenproject\\gestionrendezvous\\formdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:formdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|c:\\users\\amenallah\\desktop\\amenproject\\gestionrendezvous\\formajouterrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:formajouterrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\formajouterrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:formajouterrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|c:\\users\\amenallah\\desktop\\amenproject\\gestionrendezvous\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\formlisterendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16D7DA2E-EE56-4E53-A4BC-47832D9FB039}|GestionRendezVous.csproj|solutionrelative:formlisterendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "FormLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormLogin.Designer.cs",
+              "RelativeToolTip": "FormLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:39:26.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormLogin.cs [Design]",
+              "RelativeToolTip": "FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:22:41.986Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "FormDashboard.cs",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:30:20.519Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "FormDashboard.cs",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormDashboard.cs",
+              "RelativeToolTip": "FormDashboard.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAASwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:40:49.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConnexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\ConnexionBD.cs",
+              "RelativeDocumentMoniker": "ConnexionBD.cs",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\ConnexionBD.cs",
+              "RelativeToolTip": "ConnexionBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:17:45.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:00:54.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormListeRendezVous.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormListeRendezVous.Designer.cs",
+              "RelativeDocumentMoniker": "FormListeRendezVous.Designer.cs",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormListeRendezVous.Designer.cs",
+              "RelativeToolTip": "FormListeRendezVous.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:25:54.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormListeRendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormListeRendezVous.cs",
+              "RelativeDocumentMoniker": "FormListeRendezVous.cs",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormListeRendezVous.cs",
+              "RelativeToolTip": "FormListeRendezVous.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:54:23.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormDashboard.resx",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormDashboard.resx",
+              "RelativeDocumentMoniker": "FormDashboard.resx",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormDashboard.resx",
+              "RelativeToolTip": "FormDashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-06T11:25:52.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "FormDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormDashboard.Designer.cs",
+              "RelativeToolTip": "FormDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:25:52.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormListeRendezVous.resx",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormListeRendezVous.resx",
+              "RelativeDocumentMoniker": "FormListeRendezVous.resx",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormListeRendezVous.resx",
+              "RelativeToolTip": "FormListeRendezVous.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-06T11:25:54.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormLogin.cs",
+              "RelativeToolTip": "FormLogin.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:28:27.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormAjouterRendezVous.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormAjouterRendezVous.cs",
+              "RelativeDocumentMoniker": "FormAjouterRendezVous.cs",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormAjouterRendezVous.cs [Design]",
+              "RelativeToolTip": "FormAjouterRendezVous.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:55:47.763Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormAjouterRendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormAjouterRendezVous.cs",
+              "RelativeDocumentMoniker": "FormAjouterRendezVous.cs",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormAjouterRendezVous.cs",
+              "RelativeToolTip": "FormAjouterRendezVous.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAnwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:00:19.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormListeRendezVous.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormListeRendezVous.cs",
+              "RelativeDocumentMoniker": "FormListeRendezVous.cs",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\FormListeRendezVous.cs [Design]",
+              "RelativeToolTip": "FormListeRendezVous.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:49:16.116Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GestionRendezVous.csproj",
+              "DocumentMoniker": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\GestionRendezVous.csproj",
+              "RelativeDocumentMoniker": "GestionRendezVous.csproj",
+              "ToolTip": "C:\\Users\\Amenallah\\Desktop\\amenproject\\GestionRendezVous\\GestionRendezVous.csproj",
+              "RelativeToolTip": "GestionRendezVous.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T08:49:44.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
